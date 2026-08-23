@@ -27,6 +27,6 @@ Currently, I work on building intelligent healthcare software, bridging the gap 
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect!
 
 * **Email:** joselfrias1999@gmail.com
