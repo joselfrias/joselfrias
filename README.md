@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm José! 👋
 
-<!--
-**joselfrias/joselfrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏥 Software Enginner, with special interest in AI
 
-Here are some ideas to get you started:
+Currently, I work on building intelligent healthcare software, bridging the gap between clinical imaging infrastructure (**Dicoogle / PACS**) and **AI-driven diagnostic workflows**. My work focuses on processing DICOM datasets, developing OCR pipelines for clinical environments, and deploying deep learning models for medical image analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Core Focus Areas
+
+* 📷 **Medical Imaging & PACS:** DICOM standards, Dicoogle plugin development, metadata indexation, and PACS/VNA integrations.
+* 👁️ **Medical AI & Computer Vision:** Deep learning models for segmentation, classification, and detection in multi-modal radiology (CT, MRI, X-ray).
+* 📄 **Clinical OCR Systems:** Extracting, structuring, and parsing text from legacy medical records, unstructured reports, and clinical documents.
+* ⚙️ **Data Pipelines:** End-to-end preprocessing, anonymization, and ingestion workflows for large-scale medical datasets.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Medical Imaging & Frameworks**
+`Dicoogle` • `DICOM` • `MONAI` • `SimpleITK` • `pydicom` • `OpenCV`
+
+**AI / Machine Learning & OCR**
+`PyTorch` • `TensorFlow` • `Tesseract OCR` • `EasyOCR` • `scikit-learn`
+
+**Languages & Backend**
+`Python` • `Java` • `C` • `FastAPI` • `Docker` • `Git`
+
+---
