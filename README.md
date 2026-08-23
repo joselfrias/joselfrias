@@ -10,8 +10,7 @@ Currently, I work on building intelligent healthcare software, bridging the gap 
 
 * 📷 **Medical Imaging & PACS:** DICOM standards, Dicoogle plugin development, metadata indexation, and PACS/VNA integrations.
 * 👁️ **Medical AI & Computer Vision:** Deep learning models for segmentation, classification, and detection in multi-modal radiology (CT, MRI, X-ray).
-* 📄 **Clinical OCR Systems:** Extracting, structuring, and parsing text from legacy medical records, unstructured reports, and clinical documents.
-* ⚙️ **Data Pipelines:** End-to-end preprocessing, anonymization, and ingestion workflows for large-scale medical datasets.
+* ⚙️ **Data Pipelines:** End-to-end preprocessing, anonymization, ingestion and OCR workflows for large-scale medical datasets.
 
 ---
 
