@@ -26,7 +26,3 @@ Currently, I work on building intelligent healthcare software, bridging the gap 
 `Python` • `Java` • `C` • `FastAPI` • `Docker` • `Git`
 
 ---
-
-### 📫 Let's Connect!
-
-* **Email:** joselfrias1999@gmail.com
