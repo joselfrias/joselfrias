@@ -1,6 +1,6 @@
 # Hi there, I'm José! 👋
 
-### 🏥 Software Enginner, with special interest in AI
+### 🏥 Software Engineer, with special interest in AI
 
 Currently, I work on building intelligent healthcare software, bridging the gap between clinical imaging infrastructure (**Dicoogle / PACS**) and **AI-driven diagnostic workflows**. My work focuses on processing DICOM datasets, developing OCR pipelines for clinical environments, and deploying deep learning models for medical image analysis.
 
