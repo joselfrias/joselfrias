@@ -22,7 +22,7 @@ Currently, I work on building intelligent healthcare software, bridging the gap 
 **AI / Machine Learning & OCR**
 `PyTorch` • `TensorFlow` • `Tesseract OCR` • `EasyOCR` • `scikit-learn`
 
-**Languages & Backend**
-`Python` • `Java` • `C` • `FastAPI` • `Docker` • `Git`
+**Languages**
+`Javascript` • `Python` • `Java` • `C` • `FastAPI` • `Docker` • `Git`
 
 ---
